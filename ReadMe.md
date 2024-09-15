@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim(Português(BR)):
 Estudante de Ciências da Computação no terceiro período pela Universidade Católica de Pernambuco, com uma base em programação, algoritmos e estrutura de dados. Paralelamente aos estudos universitários, estou ampliando minhas habilidades técnicas por meio de cursos na Alura, onde desenvolvo competências em áreas como desenvolvimento web, ciência de dados, e tecnologias emergentes. Proativo, com forte interesse em resolver problemas complexos e aprender novas tecnologias.
 
 # 💫 About Me (English):
