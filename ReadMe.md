@@ -18,7 +18,7 @@ Computer Science student in the third semester at the Catholic University of Per
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ArturFreitasgf&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🐍 Jogo da Cobrinha
+## 🐍 Snake Game
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
