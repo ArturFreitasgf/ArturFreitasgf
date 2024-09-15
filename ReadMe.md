@@ -22,5 +22,4 @@ Computer Science student in the third semester at the Catholic University of Per
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArturFreitasgf&icon=0&color=0)](https://visitcount.itsvg.in)
 
